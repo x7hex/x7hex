@@ -1,2 +1,2 @@
-![image](https://user-images.githubusercontent.com/96556061/147178834-12fddd3f-2bab-43aa-b998-e5db17c50ffa.png)
 
+[github-readme-stats-master.zip](https://github.com/x7hex/x7hex/files/7766275/github-readme-stats-master.zip)
